@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uavahdeesh.erikandmaureen.com/sitemap.xml
